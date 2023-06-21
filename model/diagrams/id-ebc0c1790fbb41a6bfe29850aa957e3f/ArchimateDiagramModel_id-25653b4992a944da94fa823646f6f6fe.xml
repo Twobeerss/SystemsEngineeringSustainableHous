@@ -332,9 +332,9 @@
     </sourceConnections>
     <bounds
         x="443"
-        y="36"
+        y="24"
         width="120"
-        height="55"/>
+        height="67"/>
     <archimateElement
         xsi:type="archimate:Location"
         href="Location_id-058e96e1d7a44213a46004dedadca485.xml#id-058e96e1d7a44213a46004dedadca485"/>
