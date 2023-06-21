@@ -6,7 +6,8 @@
     documentation="Das dargestellte Diagramm liefert Informationen über die Motivationen von dem Kunden, der sich ein nachhaltigen Bauhaus wünscht. Dabei wurde es bei ersten Meeting mit dem Kunden ein paar Eigenschaften genannt, welche zu dem Bauhauswunsch gehören. &#xD;&#xA;Neben den Kundenwünschen wurde auch hierzu auch geeignete Bauhausfirma beauftragt, die dieses Projekt erfolgreich zur Realisierung bringen soll.    ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-8f6cf2ca34b14a8eb6beef73dbc66bcc">
+      id="id-8f6cf2ca34b14a8eb6beef73dbc66bcc"
+      targetConnections="id-4205b46a25cb4b7387bf77c1d4db4c6f">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-0470d8b95029485d93ea804f8fb5d487"
@@ -223,5 +224,26 @@
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-67b84b8dc91044fe89f0e08a6c0129ec.xml#id-67b84b8dc91044fe89f0e08a6c0129ec"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f45dcb0216dd4713aee24a4b55a146f3">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-4205b46a25cb4b7387bf77c1d4db4c6f"
+        source="id-f45dcb0216dd4713aee24a4b55a146f3"
+        target="id-8f6cf2ca34b14a8eb6beef73dbc66bcc">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-3f7dacc5a66d45f49778d42d23c1b6f8.xml#id-3f7dacc5a66d45f49778d42d23c1b6f8"/>
+    </sourceConnections>
+    <bounds
+        x="60"
+        y="216"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-f62c216bdd7e444295624105be2a70d4.xml#id-f62c216bdd7e444295624105be2a70d4"/>
   </children>
 </archimate:ArchimateDiagramModel>
