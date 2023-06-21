@@ -224,15 +224,4 @@
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-67b84b8dc91044fe89f0e08a6c0129ec.xml#id-67b84b8dc91044fe89f0e08a6c0129ec"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-5ee16ecb0bcb4b6ab42ffcc6f930df98"
-      textAlignment="1"
-      content="Deadline ">
-    <bounds
-        x="939"
-        y="264"
-        width="185"
-        height="80"/>
-  </children>
 </archimate:ArchimateDiagramModel>
