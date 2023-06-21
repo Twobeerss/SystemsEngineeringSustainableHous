@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Test"
+    id="id-65a024323400415b828e1b3c47f301af">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-6d11c70e28a04ac6b906f88e3ee1e311"
+      name="Group"
+      textAlignment="1">
+    <bounds
+        x="348"
+        y="264"
+        width="400"
+        height="140"/>
+  </children>
+</archimate:ArchimateDiagramModel>
