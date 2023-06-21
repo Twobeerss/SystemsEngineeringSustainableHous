@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ornelle_Requrements"
+    id="id-7211d00f459642fb8440252aeb198c48">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-09ce32087c8b403bb1034aeaa82e95a1">
+    <bounds
+        x="496"
+        y="313"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Product"
+        href="Product_id-9eed10526bf24c5ca51bbc513b649d13.xml#id-9eed10526bf24c5ca51bbc513b649d13"/>
+  </children>
+</archimate:ArchimateDiagramModel>
