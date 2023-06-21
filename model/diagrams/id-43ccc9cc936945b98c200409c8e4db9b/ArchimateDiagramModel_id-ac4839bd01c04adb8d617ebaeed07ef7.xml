@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Motivation_Vincent"
-    id="id-ac4839bd01c04adb8d617ebaeed07ef7">
+    id="id-ac4839bd01c04adb8d617ebaeed07ef7"
+    documentation="Das dargestellte Diagramm liefert Informationen über die Motivationen von dem Kunden, der sich ein nachhaltigen Bauhaus wünscht. Dabei wurde es bei ersten Meeting mit dem Kunden ein paar Eigenschaften genannt, welche zu dem Bauhauswunsch gehören. &#xD;&#xA;Neben den Kundenwünschen wurde auch hierzu auch geeignete Bauhausfirma beauftragt, die dieses Projekt erfolgreich zur Realisierung bringen soll.    ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8f6cf2ca34b14a8eb6beef73dbc66bcc">
