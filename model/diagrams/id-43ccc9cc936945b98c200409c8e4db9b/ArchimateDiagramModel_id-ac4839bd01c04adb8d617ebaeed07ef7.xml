@@ -202,6 +202,17 @@
           xsi:type="archimate:Goal"
           href="Goal_id-51ceec1c94a64d10b12ca87fafae4431.xml#id-51ceec1c94a64d10b12ca87fafae4431"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-fd0afd694f914c06bf5ad42502335add"
+        textAlignment="1"
+        content="Bearbeitet von Vincent ">
+      <bounds
+          x="540"
+          y="23"
+          width="161"
+          height="62"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
