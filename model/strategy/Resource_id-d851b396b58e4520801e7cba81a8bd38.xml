@@ -1,4 +1,7 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2000KWh/Monat"
-    id="id-d851b396b58e4520801e7cba81a8bd38"/>
+    id="id-d851b396b58e4520801e7cba81a8bd38">
+  <properties
+      key="SolarPower"/>
+</archimate:Resource>
