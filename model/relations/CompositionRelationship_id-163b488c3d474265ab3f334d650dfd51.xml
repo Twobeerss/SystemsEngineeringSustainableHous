@@ -1,6 +1,7 @@
 <archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energy  of the system"
     id="id-163b488c3d474265ab3f334d650dfd51">
   <source
       xsi:type="archimate:Requirement"
