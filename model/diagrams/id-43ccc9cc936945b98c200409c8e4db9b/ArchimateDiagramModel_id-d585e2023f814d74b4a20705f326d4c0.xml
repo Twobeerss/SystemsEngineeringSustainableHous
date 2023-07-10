@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="System maintenance"
+    id="id-d585e2023f814d74b4a20705f326d4c0">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-ee009841acac45b3a03dff27d66dcaf5"
+      name="System maintenance"
+      textAlignment="1">
+    <bounds
+        x="216"
+        y="48"
+        width="913"
+        height="505"/>
+  </children>
+</archimate:ArchimateDiagramModel>
