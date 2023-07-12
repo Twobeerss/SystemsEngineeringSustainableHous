@@ -5,27 +5,6 @@
     id="id-ac4839bd01c04adb8d617ebaeed07ef7"
     documentation="Das dargestellte Diagramm liefert Informationen über die Motivationen von dem Kunden, der sich ein nachhaltigen Bauhaus wünscht. Dabei wurde es bei ersten Meeting mit dem Kunden ein paar Eigenschaften genannt, welche zu dem Bauhauswunsch gehören. &#xD;&#xA;Neben den Kundenwünschen wurde auch hierzu auch geeignete Bauhausfirma beauftragt, die dieses Projekt erfolgreich zur Realisierung bringen soll.    ">
   <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-8f6cf2ca34b14a8eb6beef73dbc66bcc">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-0ff22578b5174c8a861a858b1027f63e"
-        source="id-8f6cf2ca34b14a8eb6beef73dbc66bcc"
-        target="id-69764898e87440e2b93df328c74013fd">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-21608fb52a6c4d3eaeaffbc676e113ca.xml#id-21608fb52a6c4d3eaeaffbc676e113ca"/>
-    </sourceConnections>
-    <bounds
-        x="60"
-        y="288"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessActor"
-        href="BusinessActor_id-f9e6c20945eb493c850f7b3f0e15a70e.xml#id-f9e6c20945eb493c850f7b3f0e15a70e"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-b1dc8e864b2147248bc5d0b4601bc0b6"
       name="Motivation"
@@ -92,8 +71,8 @@
         id="id-e53c287415154cf1b33b1a887c561adb"
         targetConnections="id-0cfd07b75c4444858d25719bc7f6b5dd">
       <bounds
-          x="96"
-          y="247"
+          x="155"
+          y="288"
           width="141"
           height="66"/>
       <archimateElement
@@ -105,7 +84,7 @@
         id="id-0cd32bb9ff5b4bbbbf93d54b6f084485"
         targetConnections="id-fc508cd4a1c2442b845343dc0f74825f id-9afa2befc4c84f2a984724e0cd3f5afc">
       <bounds
-          x="288"
+          x="325"
           y="324"
           width="120"
           height="55"/>
@@ -129,7 +108,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-69764898e87440e2b93df328c74013fd"
-        targetConnections="id-0ff22578b5174c8a861a858b1027f63e">
+        targetConnections="id-065887f6a31d418ab76964dcab5ae3d0">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-bc5a3164023b4757976d86793f2b9f98"
@@ -234,5 +213,26 @@
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-67b84b8dc91044fe89f0e08a6c0129ec.xml#id-67b84b8dc91044fe89f0e08a6c0129ec"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1ba9a25e43dc496da9abc0a1a82a2a4d">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-065887f6a31d418ab76964dcab5ae3d0"
+        source="id-1ba9a25e43dc496da9abc0a1a82a2a4d"
+        target="id-69764898e87440e2b93df328c74013fd">
+      <archimateRelationship
+          xsi:type="archimate:InfluenceRelationship"
+          href="InfluenceRelationship_id-c540d8f2549047a584dfc4dff12eaaf8.xml#id-c540d8f2549047a584dfc4dff12eaaf8"/>
+    </sourceConnections>
+    <bounds
+        x="60"
+        y="312"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-eb6771e8ad1d4b8b9662ac05aed5363b.xml#id-eb6771e8ad1d4b8b9662ac05aed5363b"/>
   </children>
 </archimate:ArchimateDiagramModel>
