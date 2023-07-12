@@ -9,8 +9,8 @@
       name="System maintenance"
       textAlignment="1">
     <bounds
-        x="168"
-        y="-60"
+        x="240"
+        y="-36"
         width="1045"
         height="577"/>
     <children
@@ -246,17 +246,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-57d31ee92e6b4b0987fa2c9a09112bc8"
-        targetConnections="id-5f3d5878c743475a9f20bffa95e87b3c"
+        targetConnections="id-5f3d5878c743475a9f20bffa95e87b3c id-bab8261b5ea144f1b0893109e3a86f97 id-4c7fd6add783460bae1c974983b277bc"
         textAlignment="1">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-491477f723984adb9dbd95e911945a33"
-          source="id-57d31ee92e6b4b0987fa2c9a09112bc8"
-          target="id-00651a70e3e74350baf006d40e976f78">
-        <archimateRelationship
-            xsi:type="archimate:SpecializationRelationship"
-            href="SpecializationRelationship_id-164c7cd78a7f4e50a1fa4f9bd0ac9809.xml#id-164c7cd78a7f4e50a1fa4f9bd0ac9809"/>
-      </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-771fddf9a9f84cb397501b9becf921bb"
@@ -333,6 +324,15 @@
               xsi:type="archimate:AccessRelationship"
               href="AccessRelationship_id-63429081fe504e52a28fc8f7190ba74a.xml#id-63429081fe504e52a28fc8f7190ba74a"/>
         </sourceConnections>
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="id-bab8261b5ea144f1b0893109e3a86f97"
+            source="id-7ec1b2c9414744edb856dbd35ee8e814"
+            target="id-57d31ee92e6b4b0987fa2c9a09112bc8">
+          <archimateRelationship
+              xsi:type="archimate:CompositionRelationship"
+              href="CompositionRelationship_id-1e4acff7f4f3406a99bdc976b6b7ebd4.xml#id-1e4acff7f4f3406a99bdc976b6b7ebd4"/>
+        </sourceConnections>
         <bounds
             x="24"
             y="114"
@@ -380,7 +380,16 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-00651a70e3e74350baf006d40e976f78"
-        targetConnections="id-88ca212a41734407838398fcfa4b1af6 id-0699d7e463744211992bd1ff59231ed1 id-491477f723984adb9dbd95e911945a33">
+        targetConnections="id-88ca212a41734407838398fcfa4b1af6 id-0699d7e463744211992bd1ff59231ed1">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-4c7fd6add783460bae1c974983b277bc"
+          source="id-00651a70e3e74350baf006d40e976f78"
+          target="id-57d31ee92e6b4b0987fa2c9a09112bc8">
+        <archimateRelationship
+            xsi:type="archimate:CompositionRelationship"
+            href="CompositionRelationship_id-f03c7b8682624b138ecc5f25b0638d61.xml#id-f03c7b8682624b138ecc5f25b0638d61"/>
+      </sourceConnections>
       <bounds
           x="444"
           y="335"
@@ -519,6 +528,39 @@
           y="36"
           width="185"
           height="97"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-5f0dc750aebd4c87bf8c463b84144a06"
+        textAlignment="1"
+        content="Bearbeitet von Vincent ">
+      <bounds
+          x="876"
+          y="24"
+          width="161"
+          height="62"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-6789bd3b1312490f96c02b8b4bf3bf49"
+        textAlignment="1"
+        content="Stakeholder bekommt Schulungen zur Systemfunktionsweie und zur Instandhaltung">
+      <bounds
+          x="708"
+          y="408"
+          width="241"
+          height="61"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-1df52144624040929c7cd6354c4b307a"
+        textAlignment="1"
+        content="Stakeholder ist in der Lage System zu beurteilen und entsprechend bei Problem- oder Prüfbedarf melden">
+      <bounds
+          x="718"
+          y="252"
+          width="221"
+          height="72"/>
     </children>
   </children>
 </archimate:ArchimateDiagramModel>
