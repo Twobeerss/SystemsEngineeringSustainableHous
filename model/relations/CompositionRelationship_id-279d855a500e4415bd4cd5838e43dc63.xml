@@ -1,6 +1,7 @@
 <archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Location of the system "
     id="id-279d855a500e4415bd4cd5838e43dc63">
   <source
       xsi:type="archimate:Requirement"

@@ -1,6 +1,7 @@
 <archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Air Filtration of the system"
     id="id-9ae70cc105ce41fd9b2207b9f941a33c">
   <source
       xsi:type="archimate:Requirement"

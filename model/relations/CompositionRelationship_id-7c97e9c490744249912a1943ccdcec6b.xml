@@ -1,6 +1,7 @@
 <archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grauwasser of the system"
     id="id-7c97e9c490744249912a1943ccdcec6b">
   <source
       xsi:type="archimate:Requirement"

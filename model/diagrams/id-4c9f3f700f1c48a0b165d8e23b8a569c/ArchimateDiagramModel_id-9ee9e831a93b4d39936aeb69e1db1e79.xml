@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Requirements_Ornelle"
-    id="id-9ee9e831a93b4d39936aeb69e1db1e79">
+    id="id-9ee9e831a93b4d39936aeb69e1db1e79"
+    documentation="Das vorliegende Diagramm liefert Informationen über die alle Stakeholder requirements für ein nachhaltiges Haus. ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d984cd3e45fd44229dcfae714909f90f">

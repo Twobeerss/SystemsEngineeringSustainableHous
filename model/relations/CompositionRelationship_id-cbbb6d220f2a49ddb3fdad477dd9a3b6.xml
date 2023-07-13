@@ -1,6 +1,7 @@
 <archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Garage of the system"
     id="id-cbbb6d220f2a49ddb3fdad477dd9a3b6">
   <source
       xsi:type="archimate:Requirement"

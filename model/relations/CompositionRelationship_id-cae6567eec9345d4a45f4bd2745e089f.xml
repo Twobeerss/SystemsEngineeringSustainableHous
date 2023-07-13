@@ -1,6 +1,7 @@
 <archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Garden of the system"
     id="id-cae6567eec9345d4a45f4bd2745e089f">
   <source
       xsi:type="archimate:Requirement"
