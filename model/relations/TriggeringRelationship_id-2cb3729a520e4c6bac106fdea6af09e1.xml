@@ -1,6 +1,7 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Filter Ein-/Ausschalten"
     id="id-2cb3729a520e4c6bac106fdea6af09e1">
   <source
       xsi:type="archimate:Equipment"

@@ -1,6 +1,7 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="mikroskopisch feinen Glasfasern"
     id="id-0d9cf999987640db89b2df1c9e1976df">
   <source
       xsi:type="archimate:Equipment"

@@ -1,6 +1,7 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nachtmodus/Automatikmodus"
     id="id-18b8cd230cfc4508b77fcb7bd48cec91">
   <source
       xsi:type="archimate:Equipment"

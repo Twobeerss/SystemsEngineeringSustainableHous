@@ -1,6 +1,7 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Feinstaub,Poen, viren entfernen"
     id="id-30549bbbf5f64ca1abae9949abf80590">
   <source
       xsi:type="archimate:Equipment"

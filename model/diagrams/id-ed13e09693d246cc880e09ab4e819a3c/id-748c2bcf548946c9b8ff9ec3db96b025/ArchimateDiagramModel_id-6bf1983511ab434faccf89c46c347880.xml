@@ -6,7 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ab6ebba6548e4fdfb43bbf7c73a274f4"
-      targetConnections="id-0b9e3037683046a08ec2c9ab3bf7a8ee id-58f3dc0fdb7544739491f4b43a5afd9a id-739d306704e24266a891d3ad1b25a86d">
+      targetConnections="id-0b9e3037683046a08ec2c9ab3bf7a8ee id-739d306704e24266a891d3ad1b25a86d id-5fb97e2371e84016be19f5887c0e40aa">
     <bounds
         x="324"
         y="48"
@@ -67,21 +67,26 @@
           endX="228"
           endY="69"/>
       <bendpoints
-          startX="-174"
+          startX="-162"
           startY="-99"
-          endX="60"
+          endX="96"
           endY="69"/>
       <bendpoints
-          startX="-174"
+          startX="-138"
           startY="-111"
-          endX="60"
+          endX="120"
           endY="57"/>
+      <bendpoints
+          startX="-174"
+          startY="-99"
+          endX="84"
+          endY="69"/>
       <archimateRelationship
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_id-12ff9d224bf04696a605b1737371ae2f.xml#id-12ff9d224bf04696a605b1737371ae2f"/>
     </sourceConnections>
     <bounds
-        x="396"
+        x="420"
         y="408"
         width="156"
         height="55"/>
@@ -94,12 +99,12 @@
       id="id-e202d05cdc824535a68518c19d960718">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-58f3dc0fdb7544739491f4b43a5afd9a"
+        id="id-5fb97e2371e84016be19f5887c0e40aa"
         source="id-e202d05cdc824535a68518c19d960718"
         target="id-ab6ebba6548e4fdfb43bbf7c73a274f4">
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-1eeebdc1780d4f508f079b172b284d38.xml#id-1eeebdc1780d4f508f079b172b284d38"/>
+          href="CompositionRelationship_id-1f92074df47647ceb55434799088efad.xml#id-1f92074df47647ceb55434799088efad"/>
     </sourceConnections>
     <bounds
         x="588"
@@ -150,15 +155,15 @@
         source="id-5063bde0f44c4983a83a34c38de41fb7"
         target="id-3b4bf90b440b49b596611ab9ec5e7f9f">
       <bendpoints
-          startX="24"
-          startY="-87"
-          endX="-227"
-          endY="81"/>
+          startX="12"
+          startY="-123"
+          endX="-168"
+          endY="45"/>
       <bendpoints
-          startX="84"
-          startY="-87"
-          endX="-48"
-          endY="81"/>
+          startX="120"
+          startY="-111"
+          endX="-60"
+          endY="57"/>
       <archimateRelationship
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_id-0d9cf999987640db89b2df1c9e1976df.xml#id-0d9cf999987640db89b2df1c9e1976df"/>
@@ -180,21 +185,31 @@
         source="id-8784290962354528ad2d8e131e2f836f"
         target="id-3b4bf90b440b49b596611ab9ec5e7f9f">
       <bendpoints
-          startX="-1"
-          startY="-75"
-          endX="108"
-          endY="93"/>
+          startX="12"
+          startY="-39"
+          endX="120"
+          endY="129"/>
       <bendpoints
-          startX="-85"
-          startY="-75"
-          endX="24"
-          endY="93"/>
+          startX="12"
+          startY="-63"
+          endX="120"
+          endY="105"/>
+      <bendpoints
+          startX="-72"
+          startY="-63"
+          endX="36"
+          endY="105"/>
+      <bendpoints
+          startX="-72"
+          startY="-99"
+          endX="36"
+          endY="69"/>
       <archimateRelationship
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_id-30549bbbf5f64ca1abae9949abf80590.xml#id-30549bbbf5f64ca1abae9949abf80590"/>
     </sourceConnections>
     <bounds
-        x="265"
+        x="288"
         y="408"
         width="120"
         height="55"/>
@@ -215,7 +230,7 @@
           href="TriggeringRelationship_id-03afb93793e34032b655043e5e9db829.xml#id-03afb93793e34032b655043e5e9db829"/>
     </sourceConnections>
     <bounds
-        x="132"
+        x="144"
         y="408"
         width="120"
         height="55"/>
