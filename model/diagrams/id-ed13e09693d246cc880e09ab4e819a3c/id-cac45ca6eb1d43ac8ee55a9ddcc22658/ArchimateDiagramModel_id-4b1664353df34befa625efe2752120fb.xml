@@ -6,7 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0934e90c89c04d849fe07ce97fd92c7e"
-      targetConnections="id-aeb2d7bc15ab4e7395ed06b09c5cf298 id-504211cc556444d2804554cae890565d id-9059a18b37a54968ae6b1cd6720ce9c3 id-bffb0aa2b42b4fc8b6858aca3fc60ccf id-d1046b94c7b54c5a8e47315e452d764e">
+      targetConnections="id-aeb2d7bc15ab4e7395ed06b09c5cf298 id-504211cc556444d2804554cae890565d id-bffb0aa2b42b4fc8b6858aca3fc60ccf id-d1046b94c7b54c5a8e47315e452d764e id-ac4ecde9b61e42b1893f9f0ea826d50d">
     <bounds
         x="613"
         y="60"
@@ -44,12 +44,15 @@
       targetConnections="id-e6932d34c2b44e15a655fea670d2a52c id-56ef52865413446bbe870e98973d4208">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-9059a18b37a54968ae6b1cd6720ce9c3"
+        id="id-ac4ecde9b61e42b1893f9f0ea826d50d"
         source="id-62a391a5a30a459a8bca2dfe2e73f923"
         target="id-0934e90c89c04d849fe07ce97fd92c7e">
+      <features
+          name="labelExpression"
+          value="2"/>
       <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_id-ef905b7e8944426fbf03a14c23e6df6e.xml#id-ef905b7e8944426fbf03a14c23e6df6e"/>
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-657e6d641e46407d8b0825829dfe93e3.xml#id-657e6d641e46407d8b0825829dfe93e3"/>
     </sourceConnections>
     <bounds
         x="444"
