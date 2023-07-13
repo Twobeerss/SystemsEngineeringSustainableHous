@@ -1,6 +1,7 @@
 <archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="deadline of the system "
     id="id-60b74f93b5034ba59f3340a45b32fcbc">
   <source
       xsi:type="archimate:Requirement"

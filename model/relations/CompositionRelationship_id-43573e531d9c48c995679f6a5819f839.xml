@@ -1,6 +1,7 @@
 <archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Balkon of the system"
     id="id-43573e531d9c48c995679f6a5819f839">
   <source
       xsi:type="archimate:Requirement"
